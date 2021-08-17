@@ -1,0 +1,26 @@
+body {
+    width: 70%; /*largura */
+    margin: auto; /*centralizar*/
+    background-image: url(https://images4.alphacoders.com/936/936378.jpg);
+    margin-top: 100px; /*espaçamento externo acima*/
+    
+}
+
+header{
+    color: brown;
+}
+
+div{
+    padding: 10px;
+    
+}
+
+li {
+    padding: 5px;
+    
+}
+
+main {    
+    background-color: white;
+    
+}
